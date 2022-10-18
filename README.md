@@ -1,1 +1,3 @@
 # odin-recipes
+Odin Recipes page made by Jorge H.
+It includes images, links, lists...
